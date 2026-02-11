@@ -1,3 +1,17 @@
-# product analysis
-This dataset contains transactional data from a UK-based online retail company. It includes details of customer purchases such as invoice information, product descriptions, quantities, pricing, customer IDs, and country of purchase.
-1) in this file having repeated customer and unique customer analize by monthly. also generate revenue for both doing visualisation for easy to interect to others.
+# Product analysis
+The Online Retail dataset contains transactional data of a UK-based online retail store. The dataset records all purchases made by customers over a specific period, including product details, quantities, prices, and customer information.
+This dataset is widely used for data analysis, customer segmentation, sales forecasting, and market basket analysis projects.
+
+# This Analysis i was done in the project
+Sales trend analysis
+Customer purchasing behavior
+Top-selling products
+Revenue analysis by Repeated and Unique customer
+
+# Tools Used
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Excel
+Jupyter Notebook
+
+
+
